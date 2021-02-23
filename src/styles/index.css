@@ -1,0 +1,14 @@
+body {
+  padding-top: 5%;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f3f3f3;
+}
+
+li {
+  font-size: 25px;
+}
+
+.paper {
+  padding-left: 2%;
+  width: 45%;
+}
